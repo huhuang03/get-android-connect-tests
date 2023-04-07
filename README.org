@@ -1,0 +1,8 @@
+* What
+Get the android connect test list, order by alphabet
+
+* Why
+Somethings the android connect crash, but we can't figure out which test it failed, so we can see which tests it runs,
+and the next test is the crash test
+
+But gradle seems not provide this way to list the tests. so I write one.
